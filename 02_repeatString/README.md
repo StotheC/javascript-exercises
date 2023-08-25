@@ -3,7 +3,7 @@
 Write a function that simply repeats the string a given number of times:
 
 ```javascript
-repeatString('hey', 3) // returns 'heyheyhey'
+repeatString('hey', 3) // returns 'heyheyhey' 
 ```
 
 This function will take two arguments, `string` and `num`.
